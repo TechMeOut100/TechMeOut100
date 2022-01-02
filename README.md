@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**TechMeOut100/TechMeOut100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning NODE.js
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about JavaScript, MYSQL,CSS,HTML and JAVA
+- 📫 How to reach me: titusk@outlook.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
